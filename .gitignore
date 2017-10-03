@@ -2,5 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/Xamarin.VisualStudio.Apex.Tests/obj
-/src/Xamarin.VisualStudio.Apex.Core/obj
+/src/VisualTreeHelper.WPF/obj
+/src/VisualTreeHelper.WPF/bin
+/src/.vs/
